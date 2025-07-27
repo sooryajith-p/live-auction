@@ -32,7 +32,7 @@ A real-time auction platform built with **Laravel**, featuring role-based authen
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/live-auction.git
+   git clone https://github.com/sooryajith-p/live-auction.git
    cd live-auction
 
 1. **Install dependencies**
